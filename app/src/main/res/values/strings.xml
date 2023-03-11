@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="editTexts">Введите текст:</string>
+    <string name="buttoms">Кнопка</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="go_to_the_browser">Перейти в браузер</string>
+    <string name="FIO">Передать ФИО</string>
+</resources>
