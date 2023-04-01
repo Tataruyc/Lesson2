@@ -18,3 +18,4 @@ include ':intentfilter'
 include ':dialog'
 
 include ':activitylifecycle'
+include ':notificationapp'
